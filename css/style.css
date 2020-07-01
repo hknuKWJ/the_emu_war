@@ -1,0 +1,143 @@
+		html{font-family: 'Noto Sans KR', sans-serif;}
+		body, h1, img, p, ul{margin:0;}
+		img{display: block; width:100%; margin:auto;}
+		header, section, footer{margin:auto;}
+		header{height:800px; padding-bottom: 150px; padding-top: 62px;}
+		nav ul{height: 66px;}
+		nav ul li{list-style-type: none; height: 66px; text-align: center; line-height: 66px;}
+		nav ul li a{display: block; text-decoration: none; color: #38312f;}
+		.bg-s1{background: url(../img/bg1.jpg); background-size: 100% auto; background-position: 0px -680px;}
+		.bg-s2{background: url(../img/bg2.png); background-size: 100% auto; background-position: 0px 50px;}
+		h1{margin: auto; font-weight:900; font-size:11em; padding-top: 5px; margin-bottom: 0px; color: white;}
+		h2{margin: auto; font-weight:900; font-size:2.9em; padding-top: 70px; margin-bottom: 40px; line-height:160%; word-spacing:-1px; word-break: keep-all;}
+		h3{margin: auto; font-weight:900; font-size:2.3em; height: 60px;  padding-top: 400px; margin-bottom: 100px; text-align: center; word-break: keep-all;}
+		p{margin-top:20px; margin-bottom:10px; line-height:200%; font-weight:500; word-spacing:-1px; font-size:1.2em; word-break: keep-all;}
+		footer{height: 620px; background-color: #c6c6c6;}
+		footer p{ margin-top:10px; margin-bottom: 0px; font-weight:300;}
+		.floating {position: fixed; right;: 50%; margin-top: 850px; margin-left: 50;}
+		.bg-header{background-color: black; background-attachment: fixed;}
+		.h1war{animation: war 1s infinite alternate-reverse;}
+		.row{width:1200px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; }
+		.row2{width:1600px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; }
+		.row3{width:1200px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; margin-top: 80px; }
+		.row4{width:1200px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:300px; }
+		.col-1{width:80px; margin:0px 10px;}
+		.col-2{width:180px; margin:0px 10px;}
+		.col-3{width:280px; margin:0px 10px;}
+		.col-4{width:380px; margin:0px 10px;}
+		.col-5{width:480px; margin:0px 10px;}
+		.col-6{width:580px; margin:0px 10px;}
+		.col-7{width:680px; margin:0px 10px;}
+		.col-8{width:780px; margin:0px 10px;}
+		.col-9{width:880px; margin:0px 10px;}
+		.col-10{width:980px; margin:0px 10px;}
+		.col-11{width:1080px; margin:0px 10px;}
+		.col-12{width:1180px; margin:0px 10px;}
+		.rowheader{width:1000px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; }
+		.img001{display: block; width:100%; margin:auto; padding-top: 26px;}
+		.img002{display: block; width:100%; margin:auto; margin-top: 60px; margin-bottom: 160px; animation: emuuu 2s infinite alternate-reverse; }
+		.img004{display: block; width:100%; margin:auto; margin-top: 60px; margin-bottom: 160px; animation: emuuu 2s infinite alternate-reverse; }
+		.img005{display: block; width:80%; margin:auto; margin-top: 180px; margin-bottom: 0px; text-align: center;}
+		.img007{display: block; margin:auto; margin-top: 180px; margin-bottom: 0px; text-align: center;}
+		.imgex{display: block; width:80% margin: auto; padding-top: 400px; margin-bottom: 100px; text-align: center; animation: emuuuu 2s infinite alternate-reverse;}
+		.img013{display: block; margin:auto; margin-bottom: 0px; text-align: center; width: 60%; padding-top: 100px;}
+		.p1 {margin-top:20px; margin-bottom:0px; font-weight:500; word-spacing:-1px; word-break: keep-all; padding-top: 120px;}
+		.p2 {margin-top:40px; margin-bottom:30px; font-size:1.4em; font-weight:700; word-spacing:-1px; word-break: keep-all;}
+		.p3 {margin-top:20px; margin-bottom:10px; word-spacing:-1px; text-align: right;  word-break: keep-all;}
+		.p4 {margin-top:20px; padding-top: 40px; line-height:210%; font-weight:900; word-spacing:-1px; text-align: right;  font-size:2.3em; word-break: keep-all;}
+		.p5 {padding-top: 150px; margin-top:20px; margin-bottom:10px; word-spacing:-1px; text-align: right;  word-break: keep-all;}
+		.p6 {text-align: center; word-break: keep-all;}
+		.p7 {padding-top:0px; padding-bottom: 0px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.7em; word-break: keep-all;}
+		.p8 {padding-top:0px; padding-bottom: 23px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.7em; word-break: keep-all;}
+		.p9 {padding-top:0px; padding-bottom: 0px; margin-bottom:-20px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.8em; word-break: keep-all;}
+		.sec1 {margin-top:300px; margin-bottom:30px;}
+		.sec2 {margin-bottom:80px;}
+		.ani1{width: 300px; height: 300px; position: absolute; animation: emu 1s infinite alternate-reverse;}
+		.ani2{width: 300px; height: 300px; position: absolute; animation: emuu 1s infinite alternate-reverse;}
+		.ani4{animation: emu04 1s infinite alternate-reverse;}
+		.ani5{position: absolute; animation: emu05 2s infinite alternate-reverse;}
+		.ani6_1{animation: emu06 1s infinite alternate-reverse;}
+		.ani6_2{animation: emu07 1s infinite alternate-reverse;}
+		.ani6_3{animation: emu07 1s infinite alternate-reverse; width:60%;}
+		.ani6{animation: emu06 1s infinite alternate-reverse; width:60%;}
+		.ani7{animation: emu04 1s infinite alternate-reverse; width:100%; padding-top: 150px;}
+		.ani8{animation: emu08 0.2s infinite alternate-reverse;}
+		.ani9{animation: emu09 2s infinite alternate-reverse;}
+		.ani10{animation: emu10 2s infinite alternate-reverse;}
+		.foot{text-align: center; padding-top: 90px;
+		margin-top:0px; margin-bottom:50px; font-weight: 400;}
+		.foot1{text-align: center; padding-top: 50px;  padding-bottom: 30px; font-weight: 400;}
+		.foot1-2{text-align: center; padding-top: 20px; font-size:1.1em; padding-bottom: 0px; margin-top:0px; margin-bottom:30px;}
+		.foot2{text-align: center; padding-bottom: 10px;
+		margin-top:0px; margin-bottom:0px; font-size:0.8em; font-weight:300; word-spacing:-1px; word-break: keep-all;}
+		.foot3{text-align: center; padding-bottom: 100px;
+		margin-top:0px; margin-bottom:0px; font-size:0.8em; font-weight:300; word-spacing:-1px; word-break: keep-all;}
+		
+		@keyframes war{
+			0% {transform: translate(10px, 0px)}
+			100% {transform: translate(10px, 0px)}}
+		@keyframes emu{
+			0% {left:900px;}
+			100% {left:800px;}}
+
+		@keyframes emuu{
+			0% {right:100px;}
+			100% {right:200px;}}
+
+		@keyframes emuuu{
+			0% {transform: scale(1,1)}
+			100% {transform: scale(1.1,1.1)}}
+
+		@keyframes emu04{
+			0% {transform: translate(0px,0px)}
+			10% {transform: translate(10px,0px)}
+			25% {transform: translate(0px,-10px)}
+			40% {transform: translate(-15px,5px)}
+			55% {transform: translate(-5px,-10px)}
+			75% {transform: translate(10px,5px)}
+			90% {transform: translate(15px,0px)}
+			100% {transform: translate(5px,-5px)}}
+
+		@keyframes emu05{
+			0% {right:100px;}
+			100% {right:700px;}}
+
+		@keyframes emu06{
+			0% {transform: translate(0px,0px)}
+			10% {transform: translate(5px,0px)}
+			25% {transform: translate(0px,-5px)}
+			40% {transform: translate(-7px,3px)}
+			55% {transform: translate(-4px,-7px)}
+			75% {transform: translate(8px,2px)}
+			90% {transform: translate(7px,0px)}
+			100% {transform: translate(3px,-3px)}}
+
+		@keyframes emu07{
+			0% {transform: translate(0px,0px)}
+			10% {transform: translate(-5px, 2px)}
+			25% {transform: translate(0px,3px)}
+			40% {transform: translate(-2px,-4px)}
+			55% {transform: translate(3px,-1px)}
+			75% {transform: translate(0px,7px)}
+			90% {transform: translate(3px,5px)}
+			100% {transform: translate(0px,-5px)}}
+
+		@keyframes emu08{
+			0% {transform: translate(-310px,-21px)}
+			25% {transform: translate(-305px, -20px)}
+			50% {transform: translate(-303px, -24px)}
+			100% {transform: translate(-307px,-22px)}}
+		
+		@keyframes emu09{
+			0% {transform: translate(-300px,0px)}
+			50% {transform: translate(100px, 0px)}
+			75% {transform: translate(50px, 0px)}
+			90% {transform: translate(50px, 0px)}
+			100% {transform: translate(50px, 0px)}}
+		
+		@keyframes emu10{
+			0% {transform: translate(0px,0px)}
+			10% {transform: translate(0px, 0px)}
+			25% {transform: translate(0px, 0px)}
+			40% {transform: translate(0px, 0px)}
+			100% {transform: translate(600px, 0px) scale(0.3,0.3)}}
